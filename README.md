@@ -1,2 +1,5 @@
-# shortcut
-Wolf CMS plugin for including a snippet using a shortcut tag
+# Shortcut
+Include a snippet using a simple shortcut tag
+
+### Note
+remove *-master* from the directoryname
