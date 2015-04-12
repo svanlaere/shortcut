@@ -7,9 +7,11 @@ Plugin::setInfos(array(
     'id' => 'shortcut',
     'title' => 	__('Shortcut'),
     'description' => __('Include a snippet using a simple shortcut tag.'),
-    'version' => '0.0.3',
-    'website' => 'http://plugins.webkluns.nl/',
-    'update_url' => 'http://plugins.webkluns.nl/plugin-versions.xml',
+    'version' => '0.1.0',
+    'license'               => 'GPLv3',
+    'author'                => 'svanlaere',
+    'website' => 'http://svanlaere.nl/',
+    'update_url' => 'http://svanlaere.nl/plugin-versions.xml',
     'require_wolf_version' => '0.7.0'
 ));
 
