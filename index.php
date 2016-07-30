@@ -8,7 +8,7 @@ Plugin::setInfos(array(
     'title' => 	__('Shortcut'),
     'description' => __('Include a snippet using a simple shortcut tag.'),
     'version' => '0.1.0',
-    'license' => 'GPLv3',
+    'license' => 'MIT',
     'author'  => 'svanlaere',
     'website' => 'http://svanlaere.nl/',
     'update_url' => 'http://svanlaere.nl/plugin-versions.xml',
